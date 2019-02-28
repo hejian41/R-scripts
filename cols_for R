@@ -1,0 +1,25 @@
+col_hh_20 <- c('#9DC8C8','#D1B6E1','#519D9E','#E53A40',
+            '#30A9DE','#F17F42','#566270','#8CD790',
+            '#2EC4B6', '#44633F','#D81159','#4F86C6',
+            '#AACD6E','#F16B6F','#E3E36A','#D8E6E7',
+            '#D09E88','#7200da','#f100e5','#005f6b')##20
+col_gyd_19 <- c('dodgerblue2','red3','green3','slateblue','darkorange',
+                'skyblue1','violetred4','forestgreen','steelblue4','slategrey',
+                'brown','darkseagreen','darkgoldenrod3','olivedrab','royalblue',
+                'tomato4','cyan2','springgreen2','lightyellow')
+col_gyd_12 <- c('#1f77b4','#ff7f0e','#2ca02c','#d62728','#9467bd',
+                '#8c564b','#e377c2','#bcbd22','#17becf','#aec7e8',
+                '#ffbb78','#98df8a')
+col_hh_10 <- c('#9DC8C8','#D1B6E1',"#30A9DE","#F17F42",'#566270',
+               "#8CD790","#44633F","#F16B6F","#E3E36A","#f100e5") 
+col_hj_55 <- c('#FFFF00', '#1CE6FF', '#FF34FF', '#FF4A46', '#008941', 
+               '#006FA6', '#A30059', '#FFDBE5', '#7A4900', '#0000A6', 
+               '#63FFAC', '#B79762', '#004D43', '#8FB0FF', '#997D87', 
+               '#5A0007', '#809693', '#FEFFE6', '#1B4400', '#4FC601', 
+               '#3B5DFF', '#4A3B53', '#FF2F80', '#61615A', '#BA0900', 
+               '#6B7900', '#00C2A0', '#FFAA92', '#FF90C9', '#B903AA', 
+               '#D16100', '#DDEFFF', '#000035', '#7B4F4B', '#A1C299', 
+               '#300018', '#0AA6D8', '#013349', '#00846F', '#372101', 
+               '#FFB500', '#C2FFED', '#A079BF', '#CC0744', '#C0B9B2',
+               '#C2FF99', '#001E09', '#00489C', '#6F0062', '#0CBD66', 
+               '#EEC3FF', '#456D75', '#B77B68', '#7A87A1', '#788D66')
